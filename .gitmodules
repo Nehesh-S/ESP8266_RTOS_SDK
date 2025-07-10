@@ -1,18 +1,18 @@
 [submodule "components/json/cJSON"]
 	path = components/json/cJSON
-	url = ../../DaveGamble/cJSON.git
+	url = https://github.com/DaveGamble/cJSON.git
 
 [submodule "components/mbedtls/mbedtls"]
 	path = components/mbedtls/mbedtls
-	url = ../../espressif/mbedtls.git
+	url = https://github.com/espressif/mbedtls.git
 
 [submodule "components/lwip/lwip"]
 	path = components/lwip/lwip
-	url = ../../espressif/esp-lwip.git
+	url = https://github.com/espressif/esp-lwip.git
 
 [submodule "components/mqtt/esp-mqtt"]
 	path = components/mqtt/esp-mqtt
-	url = ../../espressif/esp-mqtt.git
+	url = https://github.com/espressif/esp-mqtt.git
 
 [submodule "components/coap/libcoap"]
 	path = components/coap/libcoap
